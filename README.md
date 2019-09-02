@@ -1,11 +1,12 @@
 ## Sublime Text Bootstrap completion
 
-A list of completion for Bootstrap 4.
+A list of classes of Bootstrap 4.
 
-### Note
+### Issues
 
-A useful regex to parse all the classes in Bootstrap.
+Found a bug? Submit an [issue](https://github.com/builtbyeleven/sublime-bootstrap-autocomplete/issues).
 
-```
-[^\w]\.\D([\-\w])*
-```
+### Contribute
+
+Feel free to make a [pull request](https://github.com/builtbyeleven/sublime-bootstrap-autocomplete/pulls). 
+

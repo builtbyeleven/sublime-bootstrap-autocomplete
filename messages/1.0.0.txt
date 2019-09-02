@@ -1,0 +1,5 @@
+# Bootstrap Autcomplete
+
+- If you find anything missing, please feel free to submit a pull request on
+GitHub https://github.com/builtbyeleven/sublime-bootstrap-autocomplete/pulls.
+- Found a bug? Create an issue in https://github.com/builtbyeleven/sublime-bootstrap-autocomplete/issues
